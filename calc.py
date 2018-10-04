@@ -1,1 +1,4 @@
 print('My calculator')
+
+def addition(a,b):
+	return a+b
